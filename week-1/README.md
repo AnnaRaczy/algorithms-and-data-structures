@@ -1,4 +1,4 @@
-# Week 1
+# Week 1 - Arrays
 
 ### Proposed steps to solve any problem
 - Before writing code, let's thoroughly understand the problem and determine what needs to be done.
@@ -19,6 +19,14 @@
 - https://leetcode.com/problems/valid-anagram
 - https://leetcode.com/problems/top-k-frequent-elements
 - https://leetcode.com/problems/product-of-array-except-self
+<<<<<<< HEAD
+=======
+
+Optional:
+
+>>>>>>> c9d69f98f11f93594f13a4704c929b6b2f5de4e4
 - https://leetcode.com/problems/group-anagrams
 - https://leetcode.com/problems/merge-sorted-array
 - https://leetcode.com/problems/pascals-triangle (try recurrency)
+- https://leetcode.com/problems/longest-consecutive-sequence/
+- https://leetcode.com/problems/valid-sudoku/
